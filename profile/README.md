@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Fedodo">
-    <img src="https://github.com/Fedodo/.github/blob/main/assets/logo%20and%20icons/Fedodo%20Circle.svg?raw=true" alt="Logo" width="200" height="200">
+    <img src="https://github.com/Fedodo/.github/blob/main/assets/logo%20and%20icons/Fedo%20Circle%20Dark.png?raw=true" alt="Logo" width="200" height="200">
   </a>
 
 ### Fedodo
