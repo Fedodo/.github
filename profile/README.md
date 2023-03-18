@@ -6,6 +6,7 @@
   </a>
 
 <br>
+<br>
 
 Fedodo is a modular ActivityPub Server with multiple UIs and support for ActivityPub Server to Server and Server to Client.
 
