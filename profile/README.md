@@ -5,8 +5,6 @@
     <img src="https://github.com/Fedodo/.github/blob/main/assets/logo%20and%20icons/Fedodo%20Circle%20Dark.png?raw=true" alt="Logo" width="200" height="200">
   </a>
 
-### Fedodo
-
 Fedodo is a modular ActivityPub Server with multiple UIs and support for ActivityPub Server to Server and Server to Client.
 
 <p align="center">
