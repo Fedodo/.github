@@ -1,3 +1,5 @@
+**⚠️ I unfortunately paused the development of Fedodo. I explained [here](https://lna-dev.net/en/posts/projects/whathappenedtofedodo/) in detail why I did that. ⚠️**
+
 <!-- VERSION: LNA-DEV-README-TEMPLATE V1.3 -->
 <br />
 <div align="center">
